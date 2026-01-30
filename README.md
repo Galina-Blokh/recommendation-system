@@ -17,6 +17,9 @@ The system uses **Implicit Feedback** (purchase counts) rather than explicit rat
 
 ## ⚙️ Prerequisites & Installation
 
+### Requirements
+- **Python 3.10** (required)
+
 ### 1. Environment Setup
 You can set up the environment using either **Pipenv** (recommended) or **pip**.
 
