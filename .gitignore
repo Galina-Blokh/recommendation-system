@@ -1,0 +1,23 @@
+# Environment variables and secrets
+.env
+
+# Large datasets
+*.csv
+dataset_purchases.csv
+
+# Python/Pipenv
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+Pipfile.lock
+venv/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Assignment documents (proprietary/private)
+Data Scientist - Recommendation System - Home Assignment (1) (1).docx
+
+# Temporary/Generated files
+*.log
